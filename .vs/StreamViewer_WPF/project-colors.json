@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4fda909-b494-4f96-b327-d7f90a3cfc88": {
+      "ProjectGuid": "f4fda909-b494-4f96-b327-d7f90a3cfc88",
+      "DisplayName": "StreamViewer_WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

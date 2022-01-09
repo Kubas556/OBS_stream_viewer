@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StreamViewer_WPF/1.0.0": {
+        "dependencies": {
+          "LibVLCSharp.WPF": "3.6.5",
+          "VideoLAN.LibVLC.Windows": "3.0.16"
+        },
+        "runtime": {
+          "StreamViewer_WPF.dll": {}
+        }
+      },
+      "LibVLCSharp/3.6.5": {
+        "runtime": {
+          "lib/net6.0-windows7.0/LibVLCSharp.dll": {
+            "assemblyVersion": "3.6.5.0",
+            "fileVersion": "3.6.5.0"
+          }
+        }
+      },
+      "LibVLCSharp.WPF/3.6.5": {
+        "dependencies": {
+          "LibVLCSharp": "3.6.5"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/LibVLCSharp.WPF.dll": {
+            "assemblyVersion": "3.6.5.0",
+            "fileVersion": "3.6.5.0"
+          }
+        }
+      },
+      "VideoLAN.LibVLC.Windows/3.0.16": {}
+    }
+  },
+  "libraries": {
+    "StreamViewer_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibVLCSharp/3.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JmMiPpRt7h1h95ETQoNKZ9Jrz1L5yyeUx87L0c89xF8Dy755ycV9CqSxmyGVFOuk+YS8Zlf57NSgDABtV/ANQQ==",
+      "path": "libvlcsharp/3.6.5",
+      "hashPath": "libvlcsharp.3.6.5.nupkg.sha512"
+    },
+    "LibVLCSharp.WPF/3.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZKg/SAf3VZ1wbnmbkhVyyUI+L/r/ug0TQOTX7VvGJtuokNhYE5+vLLyJR8qR2p6Usq6lZd3aRI5zFmlDv2wyw==",
+      "path": "libvlcsharp.wpf/3.6.5",
+      "hashPath": "libvlcsharp.wpf.3.6.5.nupkg.sha512"
+    },
+    "VideoLAN.LibVLC.Windows/3.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2os7EGuroQnZxYzhiUWRcg3CcCII9xwMT1sOYsh32o9YSKwYirk+vf3MkcmQX4nHhUSRu6Gt3GG1pVSry6N5PA==",
+      "path": "videolan.libvlc.windows/3.0.16",
+      "hashPath": "videolan.libvlc.windows.3.0.16.nupkg.sha512"
+    }
+  }
+}

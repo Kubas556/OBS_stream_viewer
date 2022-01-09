@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamViewer_WPF", "StreamViewer_WPF\StreamViewer_WPF.csproj", "{F4FDA909-B494-4F96-B327-D7F90A3CFC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FDA909-B494-4F96-B327-D7F90A3CFC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FDA909-B494-4F96-B327-D7F90A3CFC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FDA909-B494-4F96-B327-D7F90A3CFC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FDA909-B494-4F96-B327-D7F90A3CFC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D429D9-B64F-46E0-A219-B7AC2687481F}
+	EndGlobalSection
+EndGlobal
